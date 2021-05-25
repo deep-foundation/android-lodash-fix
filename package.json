@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": "./index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/deepcase/android-lodash-fix.git"
